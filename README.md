@@ -4,4 +4,4 @@ This repository contains the replication materials for the paper 'Parental Unemp
 
 The paper examines the formation of redistribution preferences within the family by combining explanations based on material self-interest with a socialisation pathway for preference formation. 
 
-The full code is available in the script data analysis.R. Please not that due to the UK Data Service Licensing Agreement, the British Household Panel data cannot be uploaded in this repository. It can be downloaded here after registration https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=200005#!/access-data. 
+The full code is available in the script [data analysis.R](./data%20analysis.R). Please not that due to the UK Data Service Licensing Agreement, the British Household Panel data cannot be uploaded in this repository. It can be downloaded here after registration https://beta.ukdataservice.ac.uk/datacatalogue/series/series?id=200005#!/access-data. 
